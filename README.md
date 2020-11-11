@@ -29,7 +29,7 @@ GIF created with [Gifs.com](http://www.gifs.com/).
 
 GIF created with [Gifs.com](http://www.gifs.com/).
 
-<img src=https://gifs.com/gif/last-20-seconds-mOJoYR title='Last 20 Seconds' width='200px' alt='Last 20 Seconds' />
+<img src=https://j.gifs.com/mOJoYR.gif title='Last 20 Seconds' width='200px' alt='Last 20 Seconds' />
 
 GIF created with [Gifs.com](http://www.gifs.com/).
 
