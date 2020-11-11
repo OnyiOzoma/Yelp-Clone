@@ -39,4 +39,6 @@ class RestaurantsAdapter(val context: Context, val restaurants: List<YelpRestaur
         val restaurant: YelpRestaurant = restaurants[position]
         holder.bind(restaurant) // connects name of restaurant
     }
+
+
 }

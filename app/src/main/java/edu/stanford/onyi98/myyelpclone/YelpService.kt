@@ -14,3 +14,4 @@ public interface YelpService {
         @Query("location") location: String) : Call<YelpSearchResult>
 
 }
+
