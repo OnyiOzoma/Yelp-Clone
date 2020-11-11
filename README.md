@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= https://gfycat.com/unripefewchamois title='Assignment3' width='200px' alt='Assignment3' />
+<img src= 'https://gfycat.com/unripefewchamois' title='Assignment3' width='200px' alt='Assignment3' />
 
 GIF created with [Gfycat.com](http://www.gfycat.com/).
 
