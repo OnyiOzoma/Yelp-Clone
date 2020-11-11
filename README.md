@@ -17,17 +17,26 @@ The following **extensions** are implemented:
 
 * [x] User sees a descriptive error message if internet is not available
 
-## Video Walkthrough
+## Video Walkthrough 1
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://j.gifs.com/9145Qz.gif' title='First 20 Seconds' width='200px' alt='First 20 Seconds' />
+<img src= https://j.gifs.com/9145Qz.gif title='First 20 Seconds' width='200px' alt='First 20 Seconds' />
 
 GIF created with [Gifs.com](http://www.gifs.com/).
+
+
+## Video Walkthrough 2
+
+Here's a walkthrough of implemented user stories:
 
 <img src=https://j.gifs.com/P74vjA.gif title='Second 20 Seconds' width='200px' alt='Second 20 Seconds' />
 
 GIF created with [Gifs.com](http://www.gifs.com/).
+
+## Video Walkthrough 1
+
+Here's a walkthrough of implemented user stories:
 
 <img src= 'https://j.gifs.com/mOJoYR.gif' title='Last 20 Seconds' width='200px' alt='Last 20 Seconds' />
 
