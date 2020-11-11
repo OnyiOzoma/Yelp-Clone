@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src= https://gfycat.com/remarkableunripefowl title='Yelp' width='200px' alt='Yelp' />
 
-GIF created with [Gyfcat.com](http://www.gyfcat.com/).
+GIF created with [Gfycat.com](http://www.gfycat.com/).
 
 ## Notes
 
