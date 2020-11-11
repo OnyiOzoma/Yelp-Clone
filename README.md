@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= https://gfycat.com/remarkableunripefowl title='MyYelpClone' width='200px' alt='MyYelpClone' />
+<img src= https://gfycat.com/remarkableunripefowl title='Yelp' width='200px' alt='Yelp' />
 
 GIF created with [Gyfcat.com](http://www.gyfcat.com/).
 
