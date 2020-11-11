@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=https://j.gifs.com/9145Qz.gif title='First 20 Seconds' width='200px' alt='First 20 Seconds' />
+<img src= 'https://j.gifs.com/9145Qz.gif' title='First 20 Seconds' width='200px' alt='First 20 Seconds' />
 
 GIF created with [Gifs.com](http://www.gifs.com/).
 
@@ -29,7 +29,7 @@ GIF created with [Gifs.com](http://www.gifs.com/).
 
 GIF created with [Gifs.com](http://www.gifs.com/).
 
-<img src=https://j.gifs.com/mOJoYR.gif title='Last 20 Seconds' width='200px' alt='Last 20 Seconds' />
+<img src= 'https://j.gifs.com/mOJoYR.gif' title='Last 20 Seconds' width='200px' alt='Last 20 Seconds' />
 
 GIF created with [Gifs.com](http://www.gifs.com/).
 
